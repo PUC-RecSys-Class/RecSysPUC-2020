@@ -5,11 +5,11 @@
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
 
 **Ayudantes**:  
-Vladimir Araujo, Alumno de Doctorado en Ciencia de la Computación PUC CHile.  
-Manuel Cartagena, Alumno de Magister en Ciencia de la Computación PUC CHile.  
-Andrés Carvallo, Alumno de Doctorado en Ciencia de la Computación PUC CHile.  
-Francisca Cattan, Alumna de Doctorado en Ciencia de la Computación PUC CHile.  
-Andrés Villa, Alumno de Doctorado en Ciencia de la Computación PUC CHile.  
+[Vladimir Araujo](https://vgaraujov.github.io/), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
+Manuel Cartagena, Alumno de Magister en Ciencia de la Computación PUC Chile. 
+Andrés Carvallo, Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
+Francisca Cattan, Alumna de Doctorado en Ciencia de la Computación PUC Chile.  
+Andrés Villa, Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
 
 **Institución**: Pontificia Universidad Católica de Chile
 

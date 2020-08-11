@@ -4,7 +4,7 @@ A continuación encontrarán la lista de los prácticos que deberán llevarán a
 
 | #  | Práctico                           | Encargado    |
 |----|------------------------------------|--------------|
-| 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/most_popular_average_rating.ipynb) | Andrés C.    |
+| 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/pyRecLab_MostPopular.ipynb) | Andrés C.    |
 | 2  | User KNN                           | Manuel C.    |
 | 3  | [Item KNN](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/pyRecLab_iKNN.ipynb)                           | Andrés V.    |
 | 4  | [FunkSVD](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/pyRecLab_FunkSVD.ipynb)                            | Vladimir A.  |
@@ -15,5 +15,5 @@ A continuación encontrarán la lista de los prácticos que deberán llevarán a
 | 9  | Factorization Machines (Opcional)  |              |
 | 10 | CF con Deep Learning               |              |
 | 11 | Recomendación Secuencial           | Vladimir A.  |
-| 12 | Deep learning Avanzado             | Andrés V.    |
+| 12 | Deep learning Avanzado             |              |
 | 13 | Reinforcement Learning             |              |
