@@ -2,6 +2,8 @@
 
 A continuación encontrarán la lista de los prácticos que deberán llevarán acabo durante el semestre.
 
+** TODO: ** Agregar columna Semana y una columna con el link al video en Youtube.
+
 | #  | Práctico                           | Encargado    |
 |----|------------------------------------|--------------|
 | 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/pyRecLab_MostPopular.ipynb) | Andrés C.    |
