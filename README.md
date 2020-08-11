@@ -66,6 +66,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 | Semana  | Tema             | link slide(s) | comentario(s) |
 |:--------|:-----------------|:-------------------:|:-----------------:|
+| 1       | Introducción                                          | [link](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
 | 1       | Ranking no personalizado y Filtrado colaborativo (FC) | x    |                   |
 | 1       | User-based FC con clustering                          | x    |                   |
 | 1       | Pendiente Uno                                         | x    |                   |
