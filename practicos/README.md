@@ -15,5 +15,5 @@ A continuación encontrarán la lista de los prácticos que deberán llevarán a
 | 9  | Factorization Machines (Opcional)  |              |
 | 10 | CF con Deep Learning               |              |
 | 11 | Recomendación Secuencial           | Vladimir A.  |
-| 12 | Deep learning Avanzado             |              |
+| 12 | Deep learning Avanzado             | Andrés V.    |
 | 13 | Reinforcement Learning             |              |
