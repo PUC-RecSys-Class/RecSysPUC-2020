@@ -19,6 +19,8 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 13 | Deep learning Avanzado             |        |              |                                                                                                                                                                                                |
 | 14 | Reinforcement Learning             |        |              |                                                                                                                                                                                                |
 
+**TODO:** Agregar columna Semana y una columna con el link al video en Youtube.  
+
 | #  | Práctico                           | Encargado    |
 |----|------------------------------------|--------------|
 | 1  | [Most Popular y Item Average Rating](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/pyRecLab_MostPopular.ipynb) | Andrés C.    |
@@ -32,5 +34,5 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 9  | Factorization Machines (Opcional)  |              |
 | 10 | CF con Deep Learning               |              |
 | 11 | Recomendación Secuencial           | Vladimir A.  |
-| 12 | Deep learning Avanzado             |              |
+| 12 | Deep learning Avanzado             | Andrés V.    |
 | 13 | Reinforcement Learning             |              |
