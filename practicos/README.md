@@ -2,7 +2,7 @@
 
 A continuación encontrarán la lista de los prácticos que deberán llevarán acabo durante el semestre.
 
-** TODO: ** Agregar columna Semana y una columna con el link al video en Youtube.
+**TODO:** Agregar columna Semana y una columna con el link al video en Youtube.  
 
 | #  | Práctico                           | Encargado    |
 |----|------------------------------------|--------------|
