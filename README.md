@@ -59,6 +59,10 @@ Adicionalmente, cada alumno presentará al menos una vez durante el semestre un 
 
 Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre y noviembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters.
 
+## Planifiación general (sujeta a actualización)
+
+![Planificacion RecSys 2020](https://user-images.githubusercontent.com/208111/90056740-5e6ee400-dcad-11ea-8d6e-5b83663c20f2.png)
+
 ## Contenidos por Semana
 
 <!-- Tick      : &#10003 -->
