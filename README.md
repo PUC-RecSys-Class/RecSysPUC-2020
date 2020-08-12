@@ -6,7 +6,7 @@
 
 **Ayudantes**:  
 [Vladimir Araujo](https://vgaraujov.github.io/), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
-Manuel Cartagena, Alumno de Magister en Ciencia de la Computación PUC Chile. 
+Manuel Cartagena, Alumno de Magister en Ciencia de la Computación PUC Chile.  
 Andrés Carvallo, Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
 Francisca Cattan, Alumna de Doctorado en Ciencia de la Computación PUC Chile.  
 Andrés Villa, Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
@@ -31,7 +31,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 
 **MES 2** Métodos basados en contexto, máquinas de factorización y modelos fundamentales de deep learning para recomendación. Recapitulación de las tareas de recomendacion (predecir rating, predecir una lista de items, recomendar una secuencia, recomendación TopN) y de su evaluacion considerando diversidad, novedad, coverage, y otras métricas.
 
-**MES** 3 User-centric RecSys, FAT (Fairness, Accountability and Transparency), Aplicaciones de Deep learning para problemas más específicos: recomendación de ropa, multimedia, etc. Modelos profundos generativos para recomendación. Revisaremos problemas de recomendación aún no resueltos en el área.
+**MES 3** User-centric RecSys, FAT (Fairness, Accountability and Transparency), Aplicaciones de Deep learning para problemas más específicos: recomendación de ropa, multimedia, etc. Modelos profundos generativos para recomendación. Revisaremos problemas de recomendación aún no resueltos en el área.
 
 **MES 4** Principalmente presentaciones de alumnos.
 
@@ -59,24 +59,29 @@ Adicionalmente, cada alumno presentará al menos una vez durante el semestre un 
 
 Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, la cual desarrollarán durante octubre y noviembre. Enviarán un informe de avance a fines de octubre, para hacer una presentación de su proyecto al final del curso en una sesión de posters.
 
+## Planificación general (sujeta a actualización)
+
+![Planificacion RecSys 2020](https://user-images.githubusercontent.com/208111/90056740-5e6ee400-dcad-11ea-8d6e-5b83663c20f2.png)
+
 ## Contenidos por Semana
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Semana  | Tema             | link slide(s) | comentario(s) |
-|:--------|:-----------------|:-------------------:|:-----------------:|
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | x    |                   |
-| 1       | User-based FC con clustering                          | x    |                   |
-| 1       | Pendiente Uno                                         | x    |                   |
-| 2       | Item-based FC                                         | x    |                   |
-| 2       | Factorización Matricial: FunkSVD                      | x    |                   |
-| 3       | Implicit Feedback CF                                  | x    |                   |
-| 3       | Bayesian Personalized Ranking (BPR)                   | x    |                   |
-| 4       | Evaluación de sistemas de recomendación               | x    |                   |
-| 4       | Transparencia y Explicabilidad                        | x    |                   |
-| 5       | Recomendación basada en contenido 1                   | x    |                   |
-| 5       | Recomendación basada en contenido 2                   | x    |                   |
+| Semana  | Tema             | link slide(s) | link video | comentario(s) |
+|:--------|:-----------------|:-------------:|:----------:|:-------------:|
+| 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | x    | x    |                   |
+| 1       | User-based FC con clustering                          | x    | x    |                   |
+| 1       | Pendiente Uno                                         | x    | x    |                   |
+| 2       | Item-based FC                                         | x    | x    |                   |
+| 2       | Factorización Matricial: FunkSVD                      | x    | x    |                   |
+| 3       | Implicit Feedback CF                                  | x    | x    |                   |
+| 3       | Bayesian Personalized Ranking (BPR)                   | x    | x    |                   |
+| 4       | Evaluación de sistemas de recomendación               | x    | x    |                   |
+| 4       | Transparencia y Explicabilidad                        | x    | x    |                   |
+| 5       | Recomendación basada en contenido 1                   | x    | x    |                   |
+| 5       | Recomendación basada en contenido 2                   | x    | x    |                   |
 
 ## Lecturas por Semana
 
