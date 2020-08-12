@@ -64,20 +64,20 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Semana  | Tema             | link slide(s) | comentario(s) |
-|:--------|:-----------------|:-------------------:|:-----------------:|
-| 1       | Introducción                                          | [link](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | x    |                   |
-| 1       | User-based FC con clustering                          | x    |                   |
-| 1       | Pendiente Uno                                         | x    |                   |
-| 2       | Item-based FC                                         | x    |                   |
-| 2       | Factorización Matricial: FunkSVD                      | x    |                   |
-| 3       | Implicit Feedback CF                                  | x    |                   |
-| 3       | Bayesian Personalized Ranking (BPR)                   | x    |                   |
-| 4       | Evaluación de sistemas de recomendación               | x    |                   |
-| 4       | Transparencia y Explicabilidad                        | x    |                   |
-| 5       | Recomendación basada en contenido 1                   | x    |                   |
-| 5       | Recomendación basada en contenido 2                   | x    |                   |
+| Semana  | Tema             | link slide(s) | link video | comentario(s) |
+|:--------|:-----------------|:-------------:|:----------:|:-------------:|
+| 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | x    | x    |                   |
+| 1       | User-based FC con clustering                          | x    | x    |                   |
+| 1       | Pendiente Uno                                         | x    | x    |                   |
+| 2       | Item-based FC                                         | x    | x    |                   |
+| 2       | Factorización Matricial: FunkSVD                      | x    | x    |                   |
+| 3       | Implicit Feedback CF                                  | x    | x    |                   |
+| 3       | Bayesian Personalized Ranking (BPR)                   | x    | x    |                   |
+| 4       | Evaluación de sistemas de recomendación               | x    | x    |                   |
+| 4       | Transparencia y Explicabilidad                        | x    | x    |                   |
+| 5       | Recomendación basada en contenido 1                   | x    | x    |                   |
+| 5       | Recomendación basada en contenido 2                   | x    | x    |                   |
 
 ## Lecturas por Semana
 
