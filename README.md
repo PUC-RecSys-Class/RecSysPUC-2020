@@ -71,9 +71,9 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 | Semana  | Tema             | link slide(s) | link video | comentario(s) |
 |:--------|:-----------------|:-------------:|:----------:|:-------------:|
 | 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | x    | x    |                   |
-| 1       | User-based FC con clustering                          | x    | x    |                   |
-| 1       | Pendiente Uno                                         | x    | x    |                   |
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | x    |                   |
+| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | x    |                   |
+| 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-SlopeOne.pdf)    | x    |                   |
 | 2       | Item-based FC                                         | x    | x    |                   |
 | 2       | Factorización Matricial: FunkSVD                      | x    | x    |                   |
 | 3       | Implicit Feedback CF                                  | x    | x    |                   |
