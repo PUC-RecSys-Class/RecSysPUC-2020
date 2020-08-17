@@ -18,3 +18,9 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 12 | Recomendación Secuencial                                                                                                                  | 9      | 19 Octubre | Vladimir A.  |                                                                                                                                                                                                   |
 | 13 | Deep learning Avanzado                                                                                                                    | 10     | 26 Octubre | Andrés V.    |                                                                                                                                                                                                   |
 | 14 | Reinforcement Learning                                                                                                                    | 11     | 2 Noviembre |              |                                                                                                                                                                                                   |
+
+<br>
+
+**Links ayudantías** <br>
+
+17 de Agosto : [Link](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)         
