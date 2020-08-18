@@ -71,7 +71,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 | Semana  | Tema             | link slide(s) | link video | comentario(s) |
 |:--------|:-----------------|:-------------:|:----------:|:-------------:|
 | 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | x    |                   |
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](https://drive.google.com/file/d/1PrlxIa_qx5n4s-OylzXyMQeuErqCl_Py/view?usp=sharing)    |                   |
 | 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | x    |                   |
 | 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-SlopeOne.pdf)    | x    |                   |
 | 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c1-IBCF.pdf)    | x    |                   |
