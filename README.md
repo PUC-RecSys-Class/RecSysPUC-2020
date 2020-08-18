@@ -74,7 +74,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 | 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | x    |                   |
 | 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | x    |                   |
 | 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-SlopeOne.pdf)    | x    |                   |
-| 2       | Item-based FC                                         | x    | x    |                   |
+| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c1-IBCF.pdf)    | x    |                   |
 | 2       | Factorización Matricial: FunkSVD                      | x    | x    |                   |
 | 3       | Implicit Feedback CF                                  | x    | x    |                   |
 | 3       | Bayesian Personalized Ranking (BPR)                   | x    | x    |                   |
