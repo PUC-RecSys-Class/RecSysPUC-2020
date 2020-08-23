@@ -8,7 +8,7 @@
 [Vladimir Araujo](https://vgaraujov.github.io/), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
 Manuel Cartagena, Alumno de Magister en Ciencia de la Computación PUC Chile.  
 [Andrés Carvallo](https://scholar.google.com/citations?user=DinpmCUAAAAJ&hl=es), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
-Francisca Cattan, Alumna de Doctorado en Ciencia de la Computación PUC Chile.  
+[Francisca Cattan](https://www.linkedin.com/in/franciscacattan/), Alumna de Doctorado en Ciencia de la Computación PUC Chile.  
 [Andrés Villa](https://www.linkedin.com/in/andres-felipe-villa-ojeda-b3132811b), Alumno de Doctorado en Ciencia de la Computación PUC Chile.  
 
 **Institución**: Pontificia Universidad Católica de Chile
