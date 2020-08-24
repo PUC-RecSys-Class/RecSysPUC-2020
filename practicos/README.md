@@ -1,5 +1,11 @@
 ## Prácticos Sistemas Recomendadores IIC3633
 
+
+**Links ayudantías grabadas** <br>
+
+[01 - 17 de Agosto](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)   
+[02 - 24 de Agosto](https://drive.google.com/file/d/1JsA1d5ZiS4IVNTMgDO1B2_gwnCIKhbzD/view?usp=sharing)
+
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
 
 | #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargado    | Video                                                                                                                                                                                             |
@@ -19,8 +25,4 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 13 | Deep learning Avanzado                                                                                                                    | 10     | 26 Octubre | Andrés V.    |                                                                                                                                                                                                   |
 | 14 | Reinforcement Learning                                                                                                                    | 11     | 2 Noviembre |              |                                                                                                                                                                                                   |
 
-<br>
-
-**Links ayudantías** <br>
-
-17 de Agosto : [Link](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)         
+<br>      
