@@ -6,6 +6,8 @@
 [01 - 17 de Agosto](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)   
 [02 - 24 de Agosto](https://drive.google.com/file/d/1JsA1d5ZiS4IVNTMgDO1B2_gwnCIKhbzD/view?usp=sharing)
 
+------------------------------------
+
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
 
 | #  | Práctico                                                                                                                                  | Semana | Fecha Ayudantía | Encargado    | Video                                                                                                                                                                                             |
