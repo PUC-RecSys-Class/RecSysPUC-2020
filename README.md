@@ -76,7 +76,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 | 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)   |                   |
 | 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c1-IBCF.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)    |                   |
 | 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    | [video](https://drive.google.com/file/d/1Wi5O1VKrx72Ux0LdhxcAAL0FXSGV7FVQ/view)    |                   |
-| 3       | Implicit Feedback CF                                  | x    | x    |                   |
+| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s3-c1-Implicit_feedback.pdf)    | [video](https://drive.google.com/file/d/1hAxJpXX6VMgEcTQTfUtHNu-7ttDYTG9o/view?usp=sharing)    |                   |
 | 3       | Bayesian Personalized Ranking (BPR)                   | x    | x    |                   |
 | 4       | Evaluación de sistemas de recomendación               | x    | x    |                   |
 | 4       | Transparencia y Explicabilidad                        | x    | x    |                   |
