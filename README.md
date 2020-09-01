@@ -27,6 +27,27 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 
 **Contenido**:
 
+## Contenidos por Semana
+
+<!-- Tick      : &#10003 -->
+<!-- Bold tick : &#10004 -->
+
+| Semana  | Tema             | link slide(s) | link video | comentario(s) |
+|:--------|:-----------------|:-------------:|:----------:|:-------------:|
+| 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
+| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](https://drive.google.com/file/d/1PrlxIa_qx5n4s-OylzXyMQeuErqCl_Py/view?usp=sharing)    |                   |
+| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)  |                   |
+| 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)   |                   |
+| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c1-IBCF.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)    |                   |
+| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    | [video](https://drive.google.com/file/d/1Wi5O1VKrx72Ux0LdhxcAAL0FXSGV7FVQ/view)    |                   |
+| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s3_c1-Implicit-feedback.pdf)    | [video1](https://drive.google.com/file/d/1hAxJpXX6VMgEcTQTfUtHNu-7ttDYTG9o/view?usp=sharing) [video2](https://drive.google.com/file/d/1EH59esO_bnd6t3YJm-gw6PhM0mHbqRqd/view?usp=sharing)   |                   |
+| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s3_c2-BPR.pdf)    | [video](https://drive.google.com/file/d/1VV_s8c7b-ftCcg68q0oRRBh00T4JypPc/view?usp=sharing)    |                   |
+| 4       | Evaluación de sistemas de recomendación               | x    | x    |                   |
+| 4       | Transparencia y Explicabilidad                        | x    | x    |                   |
+| 5       | Recomendación basada en contenido 1                   | x    | x    |                   |
+| 5       | Recomendación basada en contenido 2                   | x    | x    |                   |
+
+
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
 
 **MES 2** Métodos basados en contexto, máquinas de factorización y modelos fundamentales de deep learning para recomendación. Recapitulación de las tareas de recomendacion (predecir rating, predecir una lista de items, recomendar una secuencia, recomendación TopN) y de su evaluacion considerando diversidad, novedad, coverage, y otras métricas.
@@ -63,25 +84,6 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ![Planificacion RecSys 2020](https://user-images.githubusercontent.com/208111/90056740-5e6ee400-dcad-11ea-8d6e-5b83663c20f2.png)
 
-## Contenidos por Semana
-
-<!-- Tick      : &#10003 -->
-<!-- Bold tick : &#10004 -->
-
-| Semana  | Tema             | link slide(s) | link video | comentario(s) |
-|:--------|:-----------------|:-------------:|:----------:|:-------------:|
-| 1       | Introducción                                          | x    | [video](https://drive.google.com/file/d/1lhHoO0JN5PI-6tc9samHx7ui7iB-ycV-/view?usp=sharing)    |                   |
-| 1       | Ranking no personalizado y Filtrado colaborativo (FC) | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-nonpers-UBCF.pdf)    | [video](https://drive.google.com/file/d/1PrlxIa_qx5n4s-OylzXyMQeuErqCl_Py/view?usp=sharing)    |                   |
-| 1       | User-based FC con clustering                          | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-UBCF_clustering.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)  |                   |
-| 1       | Pendiente Uno                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s1-c2-SlopeOne.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)   |                   |
-| 2       | Item-based FC                                         | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c1-IBCF.pdf)    | [video](https://drive.google.com/file/d/15gwdIm7MlVhBltB1vjOhsKW6n7ezqw0f/view?usp=sharing)    |                   |
-| 2       | Factorización Matricial: FunkSVD                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s2_c2-Factorizacion_matricial.pdf)    | [video](https://drive.google.com/file/d/1Wi5O1VKrx72Ux0LdhxcAAL0FXSGV7FVQ/view)    |                   |
-| 3       | Implicit Feedback CF                                  | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s3_c1-Implicit-feedback.pdf)    | [video](https://drive.google.com/file/d/1hAxJpXX6VMgEcTQTfUtHNu-7ttDYTG9o/view?usp=sharing)    |                   |
-| 3       | Bayesian Personalized Ranking (BPR)                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s3_c2-BPR.pdf)    | x    |                   |
-| 4       | Evaluación de sistemas de recomendación               | x    | x    |                   |
-| 4       | Transparencia y Explicabilidad                        | x    | x    |                   |
-| 5       | Recomendación basada en contenido 1                   | x    | x    |                   |
-| 5       | Recomendación basada en contenido 2                   | x    | x    |                   |
 
 ## Lecturas por Semana
 
