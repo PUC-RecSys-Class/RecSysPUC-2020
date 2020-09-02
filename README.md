@@ -129,3 +129,21 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 **Sugeridas**  
 * Messina, P., Dominguez, V., Parra, D., Trattner, C., & Soto, A. (2019). Content-based artwork recommendation: integrating painting metadata with neural and manually-engineered visual features. User Modeling and User-Adapted Interaction, 29(2), 251-290.
+
+
+### Semana 5:
+
+**Obligatorias**  
+* Hybrid, context-based and ensembles
+* Hybrid, context-based and ensembles
+
+**Sugeridas**  
+* Hybrid, context-based and ensembles
+
+### Semanas 6 y 7:
+
+Libre de lecturas (fiestas patrias)
+
+### Semana 8 (29 sept a 2 de octubre):
+
+* User Centric Recommender Systems
