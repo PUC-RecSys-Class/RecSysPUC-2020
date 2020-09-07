@@ -132,6 +132,7 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 **Sugeridas**  
 * Messina, P., Dominguez, V., Parra, D., Trattner, C., & Soto, A. (2019). Content-based artwork recommendation: integrating painting metadata with neural and manually-engineered visual features. User Modeling and User-Adapted Interaction, 29(2), 251-290.
+* Celma, Ò., & Herrera, P. (2008). A new approach to evaluating novel recommendations. In Proceedings of the 2008 ACM conference on Recommender systems (pp. 179-186).
 
 
 ### Semana 5:
