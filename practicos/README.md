@@ -4,7 +4,10 @@
 **Links ayudantías grabadas**
 
 [01 - 17 de Agosto](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)   
+
 [02 - 24 de Agosto](https://drive.google.com/file/d/1JsA1d5ZiS4IVNTMgDO1B2_gwnCIKhbzD/view?usp=sharing)
+
+[07 - 13 de Septiembre](https://drive.google.com/file/d/1x0iGCrcLvLBTch_cAeqnD17K3DeSKUhd/view)
 
 ------------------------------------
 
