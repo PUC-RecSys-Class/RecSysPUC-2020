@@ -46,7 +46,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 4       | Evaluación II: Cobertura, diversidad, novedad                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s4_c1-metricas.pdf)    | [video](https://drive.google.com/file/d/1TPjmn7FWK2C4G3rg7UYY4NGG2bLJyTOy/view?usp=sharing)     |                   |
 | 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s4_c2-tests_estadisticos.pdf)     | [video](https://drive.google.com/file/d/1jis_iIjFFWk7NcggeMn26rLAhrWuRK5h/view?usp=sharing)    |                   |
 | 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s5_c1-content.pdf)    | [video](https://drive.google.com/file/d/1HiBLWh0l-aRq4ldVjk3Z0bf56gwQP2wp/view?usp=sharing)    |                   |
-| 5       | Recomendación basada en contenido 2                   | x    | x    |                   |
+| 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s5_c2-content.pdf)    | [video](https://drive.google.com/file/d/1cUR-bApLvOlVYRMAdGzEqeatP44jol0N/view?usp=sharing)    |                   |
 | 6       | Recomendación basada en contexto                      | x    | x    |                   |
 | 6       | Recomendación híbrida y ensambles                     | x    | x    |                   |
 
