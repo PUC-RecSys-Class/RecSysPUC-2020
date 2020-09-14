@@ -9,6 +9,8 @@
 
 [07 - 13 de Septiembre](https://drive.google.com/file/d/1x0iGCrcLvLBTch_cAeqnD17K3DeSKUhd/view)
 
+[14 - 21 de Septiembre ](https://drive.google.com/file/d/1LeCCUQPNkRA9RFbw4N4nnaRgr4ZKPUjD/view)
+
 ------------------------------------
 
 A continuación encontrarán la lista de los prácticos que deberán realizar durante este semestre.
