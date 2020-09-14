@@ -47,8 +47,10 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 4       | Evaluación III: Tests estadísticos                        | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s4_c2-tests_estadisticos.pdf)     | [video](https://drive.google.com/file/d/1jis_iIjFFWk7NcggeMn26rLAhrWuRK5h/view?usp=sharing)    |                   |
 | 5       | Recomendación basada en contenido 1                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s5_c1-content.pdf)    | [video](https://drive.google.com/file/d/1HiBLWh0l-aRq4ldVjk3Z0bf56gwQP2wp/view?usp=sharing)    |                   |
 | 5       | Recomendación basada en contenido 2                   | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s5_c2-content.pdf)    | [video](https://drive.google.com/file/d/1cUR-bApLvOlVYRMAdGzEqeatP44jol0N/view?usp=sharing)    |                   |
+| 6       | Recomendación híbrida                                 | x    | x    |                   |
 | 6       | Recomendación basada en contexto                      | x    | x    |                   |
-| 6       | Recomendación híbrida y ensambles                     | x    | x    |                   |
+| 6       | Máquinas de Factorización                             | x    | x    |                   |
+| 6       | Recomendación por ensambles                           | x    | x    |                   |
 
 
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
