@@ -2,8 +2,8 @@
 10 de agosto, 2020
 
 ### Plazo de tarea 1
-Por solicitud de los alumnos se ha extendido el plazo hasta el lunes 21 de septiembre, 23:59. <br/>
-No habránmás extensiones.
+Por solicitud de los alumnos se ha extendido el plazo hasta el lunes 21 de septiembre, 23:59 hrs.. <br/>
+No habrán más extensiones.
 
 ### Equipo Docente e Información Administrativa
 **Instructor**: [Denis Parra](http://dparra.sitios.ing.uc.cl), Profesor Asociado PUC Chile, Ph.D. University of Pittsburgh
