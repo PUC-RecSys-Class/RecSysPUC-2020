@@ -159,6 +159,6 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 Libre de lecturas (fiestas patrias)
 
-### Semana 8 (29 sept a 2 de octubre):
+### Semana 8 (lunes 5 de octubre):
 
 * User Centric Recommender Systems (por definir)
