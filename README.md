@@ -159,6 +159,11 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 Libre de lecturas (fiestas patrias)
 
-### Semana 8 (lunes 5 de octubre):
+### Semana 8 :
 
-* User Centric Recommender Systems (por definir)
+**Obligatorias con entrega lunes 5 de octubre**
+* Pu, P., Chen, L. and Hu, R. (2011). A user-centric evaluation framework for recommender systems. RecSys'11 - Proceedings of the 5th ACM Conference on Recommender Systems. 157-164.
+* Parra, D., Brusilovsky, P., and Trattner, C. (2014). See What You Want to See: Visual User-Driven Approach for Hybrid Recommendation. International Conference on Intelligent User Interfaces, Proceedings IUI.
+
+**Obligatoria con entrega miércoles 7 de octubre**
+* Knijnenburg, B., Bostandjiev, S., O'Donovan, J., and Kobsa, A. (2012). Inspectability and control in social recommenders. RecSys'12 - Proceedings of the 6th ACM Conference on Recommender Systems. 
