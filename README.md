@@ -53,7 +53,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 6       | Recomendación basada en contexto                      | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s6_c1-contexto.pdf)    | [video1](https://drive.google.com/file/d/1fC3Ypg5aF8Be_8b7ZpPFqwVdtJS2kwzm/view?usp=sharing) [video2](https://drive.google.com/file/d/10r_6DzrKflF8sVzgZ1mU8xb8mJC2BcgO/view?usp=sharing)   |                   |
 | 6       | Máquinas de Factorización                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s6_c2_p2-FMachines.pdf)    | [video](https://drive.google.com/file/d/111IK4ZIE-bqiNWmYLyafQoS0kthETLUr/view?usp=sharing)    |                   |
 | 7       | Semana Break                             | Break    | Break    |                   |
-| 8       | Ideas de Proyectos                       |          |          |                   |
+| 8       | [Ideas de Proyecto](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/tree/master/proyecto) |  [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/Denis-IdeasProyectosFinales-2020.pdf)        |   [video1]() [video2]()      |                   |
 | 9       | Evaluación centrada en usuarios                             | [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s9_c1_usercentric.pdf)    | [video1](https://drive.google.com/file/d/1N6KBXkGN6Gh409mxkkD8KFGLs8Bvntz7/view?usp=sharing)  [video2](https://drive.google.com/file/d/1NlALFJzBcLv1SZGFSiOgjFoINlKzkdN4/view?usp=sharing)  |                   |
 | 9       | FAT                                      |          |          |                   |
 
