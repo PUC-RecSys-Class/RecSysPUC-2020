@@ -92,7 +92,10 @@ Durante septiembre, las(los) estudiantes enviarán una idea de proyecto final, l
 
 ## Planificación general (sujeta a actualización)
 
-![Planificacion RecSys 2020](https://user-images.githubusercontent.com/208111/92431001-b98cdd00-f16c-11ea-9192-bba9a15a0fd8.png)
+(actualizada el 8 de octubre de 2020)
+
+![Planificacion RecSys 2020](https://user-images.githubusercontent.com/208111/95472551-92871e00-0959-11eb-8725-5fb2fe7842f9.png)
+
 
 
 ## Lecturas por Semana
