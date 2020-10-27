@@ -3,13 +3,15 @@
 
 **Links ayudantías grabadas**
 
-[01 - 17 de Agosto](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)   
+[17 de Agosto](https://drive.google.com/file/d/1TGUKYi-jV7vJ5ns27pEMYyOqagQcfh_1/view?usp=sharing)   
 
-[02 - 24 de Agosto](https://drive.google.com/file/d/1JsA1d5ZiS4IVNTMgDO1B2_gwnCIKhbzD/view?usp=sharing)
+[24 de Agosto](https://drive.google.com/file/d/1JsA1d5ZiS4IVNTMgDO1B2_gwnCIKhbzD/view?usp=sharing)
 
-[07 - 13 de Septiembre](https://drive.google.com/file/d/1x0iGCrcLvLBTch_cAeqnD17K3DeSKUhd/view)
+[13 de Septiembre](https://drive.google.com/file/d/1x0iGCrcLvLBTch_cAeqnD17K3DeSKUhd/view)
 
-[14 - 21 de Septiembre ](https://drive.google.com/file/d/1LeCCUQPNkRA9RFbw4N4nnaRgr4ZKPUjD/view)
+[21 de Septiembre ](https://drive.google.com/file/d/1LeCCUQPNkRA9RFbw4N4nnaRgr4ZKPUjD/view)
+
+[27 de Septiembre ](https://drive.google.com/file/d/171kVEF-etFr2NN7VaB3pbv_l_kcr2WaK/view?usp=sharing)
 
 ------------------------------------
 
@@ -26,7 +28,7 @@ A continuación encontrarán la lista de los prácticos que deberán realizar du
 | 7  | [Content-based (Texto)](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/Content_Based_texto.ipynb)				| 4      | 7 Septiembre | Andrés C. | <a href="https://youtu.be/seMk0mF2JZE">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
 | 8  | [Content-based (Imágenes)](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/Content_Based_imagenes.ipynb) 		| 4      | 7 Septiembre | Andrés C. | <a href="https://youtu.be/qkTkVv7m-2w">   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
 | 9 | [Factorization Machines](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/FastFM_factorization_machines.ipynb)    | 5      | 14 Septiembre | Andrés C. | <a href="https://youtu.be/3QIUrAHxbOM">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
-| 11 | [Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/Reinforcement_Learning_Recsim.ipynb)                                                                                                                   | 10     | N/D | Manuel C.   | <a href="https://youtu.be/nkRAa8D5B1I">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
-| 12 | [CF con Deep Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/MultiVAE_Practico.ipynb)                                                                                                                     | 11      | 19 Octubre | Andrés V.    | <a href="https://www.youtube.com">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
+| 11 | [Reinforcement Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/Reinforcement_Learning_Recsim.ipynb)   | 10     | N/D | Manuel C.   | <a href="https://youtu.be/nkRAa8D5B1I">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
+| 12 | [CF con Deep Learning](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/MultiVAE_Practico.ipynb)   				| 11      | 19 Octubre | Andrés V.    | <a href="https://www.youtube.com">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                     |
 | 13 | [Recomendación Secuencial](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/practicos/GRU4Rec.ipynb)		  				| 12      | 26 Octubre | Vladimir A.  | <a href="https://www.youtube.com/watch?v=isrltGf1Sa0">   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/YouTube_dark_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |
 | 14 | Deep learning Avanzado                                                                                                                   | 13     | 2 Noviembre | Andrés V.   | <a href="https://www.youtube.com">   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="50" alt="Open Video"/> </a>                           |     
