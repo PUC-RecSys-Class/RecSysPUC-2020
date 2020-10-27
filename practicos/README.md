@@ -11,7 +11,7 @@
 
 [21 de Septiembre ](https://drive.google.com/file/d/1LeCCUQPNkRA9RFbw4N4nnaRgr4ZKPUjD/view)
 
-[27 de Septiembre ](https://drive.google.com/file/d/171kVEF-etFr2NN7VaB3pbv_l_kcr2WaK/view?usp=sharing)
+[27 de Octubre ](https://drive.google.com/file/d/171kVEF-etFr2NN7VaB3pbv_l_kcr2WaK/view?usp=sharing)
 
 ------------------------------------
 
