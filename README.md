@@ -75,7 +75,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 | 13       | CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation         | [slides](https://drive.google.com/file/d/1Ys-8asyvEYR1Fr_lbY3D_pJkU88f1jHs/view?usp=sharing)    | [video](https://drive.google.com/file/d/12wMh58M3ogqaWdmfKJpXDsZRyTOba9r1/view?usp=sharing)    |                   |
 | 13       | Collaborative Similarity Embedding for Recommender Systems         | [slides](https://drive.google.com/file/d/1QoreUxFm_Qu5hHvzywPsj02pslXvefkK/view?usp=sharing)    | [video](https://drive.google.com/file/d/15ewTouX8aLn2ib3LEt_2s226zd2VZyi0/view?usp=sharing)    |
 | 13       | Personalized re-ranking for recommendation         | [slides](https://drive.google.com/file/d/1Xnt_NpqR_7CHIBvhkB-J5MFOpxwSiAwR/view?usp=sharing)    | [video](https://drive.google.com/file/d/155ljkGXASvx-AwWN7STHL4xjWoUEYOMP/view?usp=sharing)    |
-| 13       | Recommending what video to watch next: a multitask ranking system         | [slides]()    | [video]()    |
+| 13       | Recommending what video to watch next: a multitask ranking system         | [slides](https://drive.google.com/file/d/1uqSZMQbummCNoC8i7f-VkCLHs4UQC1xA/view?usp=sharing)    | [video](https://drive.google.com/file/d/1uZGioos0x9xHo01AW3jAlip8jVn9k2Hv/view?usp=sharing)    |
 | 13       | Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning         | [slides]()    | [video]()    |
 | 13       | The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation         | [slides]()    | [video]()    |
 | 14       | Complete the Look: Scene-based Complementary Product Recommendation         | [slides]()    | [video]()    |
