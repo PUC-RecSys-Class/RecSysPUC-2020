@@ -61,7 +61,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 11       | Aprendizaje Profundo para RecSys (Intro y FC)                                      |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s11_c1_deep_learning.pdf)       |  [video](https://drive.google.com/file/d/1-T_vxETMbzqk2FNJzUPGaPJtIpfe-R9g/view?usp=sharing)        |                   |
 | 11       | Aprendizaje Profundo para RecSys (Secuencias)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s11_c2_secu_deep_learning.pdf)       |  [video](https://drive.google.com/file/d/1krx9jda3TC8xyIn0n5FGuR-xgp-zezev/view?usp=sharing)        |                   |
 | 12       | Aprendizaje Profundo para RecSys (Imágenes, Transformer, Grafos)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s12_c1_deep_learning_s.pdf)       |  [video1](https://drive.google.com/file/d/11aUkSvabuHZMevDd4yP0dBTrc3_2eNtV/view?usp=sharing)  [video2](https://drive.google.com/file/d/1LJ6jI3gHPqS45Olv-Iu29W5DunO8ZbF6/view?usp=sharing)      |                   |
-| 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides]()       |  [video]()        |                   |
+| 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides]()       |  [video](https://drive.google.com/file/d/1DtyzGOfMZY8UE223SMM2ROczH_qHhkNc/view?usp=sharing)        |                   |
 
 ### Parte II del curso: seminario
 
