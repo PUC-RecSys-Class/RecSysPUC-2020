@@ -63,6 +63,41 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 | 12       | Aprendizaje Profundo para RecSys (Imágenes, Transformer, Grafos)                                    |   [slides](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/clases/s12_c1_deep_learning_s.pdf)       |  [video1](https://drive.google.com/file/d/11aUkSvabuHZMevDd4yP0dBTrc3_2eNtV/view?usp=sharing)  [video2](https://drive.google.com/file/d/1LJ6jI3gHPqS45Olv-Iu29W5DunO8ZbF6/view?usp=sharing)      |                   |
 | 12       | 10 problemas en Sistemas de Recomendación                                     |   [slides]()       |  [video]()        |                   |
 
+### Parte II del curso: seminario
+
+A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los [siguientes papers](pap)
+
+<!-- Tick      : &#10003 -->
+<!-- Bold tick : &#10004 -->
+
+| Semana  | Tema             | link slide(s) | link video | comentario(s) |
+|:--------|:-----------------|:-------------:|:----------:|:-------------:|
+| 13       | Paper 1         | [slides]()    | [video]()    |                   |
+| 13       | Paper 2         | [slides]()    | [video]()    |                   |
+| 13       | Paper 3         | [slides]()    | [video]()    |                   |
+| 13       | Paper 4         | [slides]()    | [video]()    |                   |
+| 13       | Paper 5         | [slides]()    | [video]()    |                   |
+| 13       | Paper 6         | [slides]()    | [video]()    |                   |
+| 14       | Paper 1         | [slides]()    | [video]()    |                   |
+| 14       | Paper 2         | [slides]()    | [video]()    |                   |
+| 14       | Paper 3         | [slides]()    | [video]()    |                   |
+| 14       | Paper 4         | [slides]()    | [video]()    |                   |
+| 14       | Paper 5         | [slides]()    | [video]()    |                   |
+| 14       | Paper 6         | [slides]()    | [video]()    |                   |
+| 15       | Paper 1         | [slides]()    | [video]()    |                   |
+| 15       | Paper 2         | [slides]()    | [video]()    |                   |
+| 15       | Paper 3         | [slides]()    | [video]()    |                   |
+| 15       | Paper 4         | [slides]()    | [video]()    |                   |
+| 15       | Paper 5         | [slides]()    | [video]()    |                   |
+| 15       | Paper 6         | [slides]()    | [video]()    |                   |
+| 16       | Paper 1         | [slides]()    | [video]()    |                   |
+| 16       | Paper 2         | [slides]()    | [video]()    |                   |
+| 16       | Paper 3         | [slides]()    | [video]()    |                   |
+| 16       | Paper 4         | [slides]()    | [video]()    |                   |
+| 16       | Paper 5         | [slides]()    | [video]()    |                   |
+| 16       | Paper 6         | [slides]()    | [video]()    |                   |
+
+
 
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
 
