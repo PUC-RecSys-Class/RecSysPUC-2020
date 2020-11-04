@@ -70,32 +70,30 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Semana  | Tema             | link slide(s) | link video | comentario(s) |
-|:--------|:-----------------|:-------------:|:----------:|:-------------:|
-| 13       | Paper 1         | [slides]()    | [video]()    |                   |
-| 13       | Paper 2         | [slides]()    | [video]()    |                   |
-| 13       | Paper 3         | [slides]()    | [video]()    |                   |
-| 13       | Paper 4         | [slides]()    | [video]()    |                   |
-| 13       | Paper 5         | [slides]()    | [video]()    |                   |
-| 13       | Paper 6         | [slides]()    | [video]()    |                   |
-| 14       | Paper 1         | [slides]()    | [video]()    |                   |
-| 14       | Paper 2         | [slides]()    | [video]()    |                   |
-| 14       | Paper 3         | [slides]()    | [video]()    |                   |
-| 14       | Paper 4         | [slides]()    | [video]()    |                   |
-| 14       | Paper 5         | [slides]()    | [video]()    |                   |
-| 14       | Paper 6         | [slides]()    | [video]()    |                   |
-| 15       | Paper 1         | [slides]()    | [video]()    |                   |
-| 15       | Paper 2         | [slides]()    | [video]()    |                   |
-| 15       | Paper 3         | [slides]()    | [video]()    |                   |
-| 15       | Paper 4         | [slides]()    | [video]()    |                   |
-| 15       | Paper 5         | [slides]()    | [video]()    |                   |
-| 15       | Paper 6         | [slides]()    | [video]()    |                   |
-| 16       | Paper 1         | [slides]()    | [video]()    |                   |
-| 16       | Paper 2         | [slides]()    | [video]()    |                   |
-| 16       | Paper 3         | [slides]()    | [video]()    |                   |
-| 16       | Paper 4         | [slides]()    | [video]()    |                   |
-| 16       | Paper 5         | [slides]()    | [video]()    |                   |
-| 16       | Paper 6         | [slides]()    | [video]()    |                   |
+| Semana  | Tema             | link slide(s) | link video |
+|:--------|:-----------------|:-------------:|:----------:|
+| 13       | CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation         | [slides](https://drive.google.com/file/d/1Ys-8asyvEYR1Fr_lbY3D_pJkU88f1jHs/view?usp=sharing)    | [video](https://drive.google.com/file/d/12wMh58M3ogqaWdmfKJpXDsZRyTOba9r1/view?usp=sharing)    |                   |
+| 13       | Collaborative Similarity Embedding for Recommender Systems         | [slides](https://drive.google.com/file/d/1QoreUxFm_Qu5hHvzywPsj02pslXvefkK/view?usp=sharing)    | [video](https://drive.google.com/file/d/15ewTouX8aLn2ib3LEt_2s226zd2VZyi0/view?usp=sharing)    |
+| 13       | Personalized re-ranking for recommendation         | [slides](https://drive.google.com/file/d/1Xnt_NpqR_7CHIBvhkB-J5MFOpxwSiAwR/view?usp=sharing)    | [video](https://drive.google.com/file/d/155ljkGXASvx-AwWN7STHL4xjWoUEYOMP/view?usp=sharing)    |
+| 13       | Recommending what video to watch next: a multitask ranking system         | [slides]()    | [video]()    |
+| 13       | Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning         | [slides]()    | [video]()    |
+| 13       | The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation         | [slides]()    | [video]()    |
+| 14       | Complete the Look: Scene-based Complementary Product Recommendation         | [slides]()    | [video]()    |
+| 14       | Dynamic Online Conversation Recommendation     | [slides]()    | [video]()    |
+| 14       | Temporal-Contextual Recommendation in Real-Time.         | [slides]()    | [video]()    |
+| 14       | What does BERT Know about Books, Movies and Music? Probing BERT for Conversational Recommendation         | [slides]()    | [video]()    |
+| 14       | Fairness-Aware Explainable Recommendation over Knowledge Graphs         | [slides]()    | [video]()    |
+| 15       | Deep generative ranking for personalized recommendation         | [slides]()    | [video]()    |
+| 15       | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems       | [slides]()    | [video]()    |
+| 15       | Neural Interactive Collaborative Filtering         | [slides]()    | [video]()    |
+| 15       | Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems        | [slides]()    | [video]()    |
+| 15       | Towards Conversational Recommendation over Multi-Type Dialogs         | [slides]()    | [video]()    |
+| 15       | Self-Supervised Reinforcement Learning for Recommender Systems         | [slides]()    | [video]()    |
+| 16       | Controlling Fairness and Bias in Dynamic Learning-to-Rank         | [slides]()    | [video]()    |
+| 16       | Are we really making much progress? A worrying analysis of recent neural recommendation approaches         | [slides]()    | [video]()    |
+| 16       | KRED: Knowledge-aware Document Representation for News Recommendations         | [slides]()    | [video]()    |
+| 16       | Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems         | [slides]()    | [video]()    |
+| 16       | BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer         | [slides]()    | [video]()    |
 
 
 
