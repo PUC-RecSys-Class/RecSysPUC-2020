@@ -77,7 +77,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 | 13       | Personalized re-ranking for recommendation         | [slides](https://drive.google.com/file/d/1Xnt_NpqR_7CHIBvhkB-J5MFOpxwSiAwR/view?usp=sharing)    | [video](https://drive.google.com/file/d/155ljkGXASvx-AwWN7STHL4xjWoUEYOMP/view?usp=sharing)    |
 | 13       | Recommending what video to watch next: a multitask ranking system         | [slides](https://drive.google.com/file/d/1uqSZMQbummCNoC8i7f-VkCLHs4UQC1xA/view?usp=sharing)    | [video](https://drive.google.com/file/d/1uZGioos0x9xHo01AW3jAlip8jVn9k2Hv/view?usp=sharing)    |
 | 13       | Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning         | [slides](https://drive.google.com/file/d/1IdR28OnjbzY2YVmlekyNQippslYJB4cZ/view?usp=sharing)    | [video](https://drive.google.com/file/d/1SGbu521Qn5DOq33u8SF-OyKrJN3zuqlG/view?usp=sharing)    |
-| 13       | The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation         | [slides]()    | [video]()    |
+| 13       | The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation         | [slides](https://drive.google.com/file/d/14LUW4ZQE9kHaAilSzDMl96tCPHH5UcdE/view?usp=sharing)    | [video](https://drive.google.com/file/d/14LUW4ZQE9kHaAilSzDMl96tCPHH5UcdE/view?usp=sharing)    |
 | 14       | Complete the Look: Scene-based Complementary Product Recommendation         | [slides]()    | [video]()    |
 | 14       | Dynamic Online Conversation Recommendation     | [slides]()    | [video]()    |
 | 14       | Temporal-Contextual Recommendation in Real-Time.         | [slides]()    | [video]()    |
