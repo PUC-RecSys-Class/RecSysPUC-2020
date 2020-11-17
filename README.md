@@ -83,9 +83,9 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 | 14       | Temporal-Contextual Recommendation in Real-Time.         | [slides](https://drive.google.com/file/d/1AM9HgY75MptUkboOZNKktesPLP17Rjln/view?usp=sharing)    | [video](https://drive.google.com/file/d/18DkeuikFjL3Rp477T3J1LIEsNJPxoiOV/view?usp=sharing)    |
 | 14       | What does BERT Know about Books, Movies and Music? Probing BERT for Conversational Recommendation         | [slides](https://drive.google.com/file/d/1TKKuA1_V9X2x_JaIHee-iUl2g1Q6IsbF/view?usp=sharing)    |  [video](https://drive.google.com/file/d/1sQ9jgyOVe5vwUUTh5mYxGC8ae4PEfO9k/view?usp=sharing) |
 | 14       | Fairness-Aware Explainable Recommendation over Knowledge Graphs         | [slides](https://drive.google.com/file/d/169p_F5YWoIPrn9QyiuepyqhvNnP6ufOZ/view?usp=sharing)    | [video](https://drive.google.com/file/d/19U2Fpq3Pj7qKEuCr47HPkPGRTdwvBUk4/view?usp=sharing)    |
-| 15       | Deep generative ranking for personalized recommendation         | [slides]()    | [video]()    |
-| 15       | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems       | [slides]()    | [video]()    |
-| 15       | Neural Interactive Collaborative Filtering         | [slides]()    | [video]()    |
+| 15       | Deep generative ranking for personalized recommendation         | [slides](https://drive.google.com/file/d/1nDnz6GlFN6xifzBNRTkBzWFD40LIC7Wg/view?usp=sharing)    | [video](https://drive.google.com/file/d/1fq4Jx54aOl_PDx3Y-xd6yL7oJ92nXPCO/view?usp=sharing)    |
+| 15       | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems       | [slides](https://drive.google.com/file/d/1SWNGR3xdaJv4JAfs2GQEf1GyR378r03T/view?usp=sharing)    | [video](https://drive.google.com/file/d/1NrrtuyT6X4EoZFG-LJ_aBcvKb-dhpZIP/view?usp=sharing)    |
+| 15       | Neural Interactive Collaborative Filtering         | [slides](https://drive.google.com/file/d/1g52DPanTM5a8MLZoQKT8req6Sz_WHfvL/view?usp=sharing)    | [video](https://drive.google.com/file/d/1EdZQTASqlLEAFQcnyCdFY4dj9K4d_Wok/view?usp=sharing)    |
 | 15       | Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems        | [slides]()    | [video]()    |
 | 15       | Towards Conversational Recommendation over Multi-Type Dialogs         | [slides]()    | [video]()    |
 | 15       | Self-Supervised Reinforcement Learning for Recommender Systems         | [slides]()    | [video]()    |
