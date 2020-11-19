@@ -86,9 +86,9 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 | 15       | Deep generative ranking for personalized recommendation         | [slides](https://drive.google.com/file/d/1nDnz6GlFN6xifzBNRTkBzWFD40LIC7Wg/view?usp=sharing)    | [video](https://drive.google.com/file/d/1fq4Jx54aOl_PDx3Y-xd6yL7oJ92nXPCO/view?usp=sharing)    |
 | 15       | Revisiting Adversarially Learned Injection Attacks Against Recommender Systems       | [slides](https://drive.google.com/file/d/1SWNGR3xdaJv4JAfs2GQEf1GyR378r03T/view?usp=sharing)    | [video](https://drive.google.com/file/d/1NrrtuyT6X4EoZFG-LJ_aBcvKb-dhpZIP/view?usp=sharing)    |
 | 15       | Neural Interactive Collaborative Filtering         | [slides](https://drive.google.com/file/d/1g52DPanTM5a8MLZoQKT8req6Sz_WHfvL/view?usp=sharing)    | [video](https://drive.google.com/file/d/1EdZQTASqlLEAFQcnyCdFY4dj9K4d_Wok/view?usp=sharing)    |
-| 15       | Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems        | [slides]()    | [video]()    |
-| 15       | Towards Conversational Recommendation over Multi-Type Dialogs         | [slides]()    | [video]()    |
-| 15       | Self-Supervised Reinforcement Learning for Recommender Systems         | [slides]()    | [video]()    |
+| 15       | Explanation Mining: Post Hoc Interpretability of Latent Factor Models for Recommendation Systems        | [slides](https://drive.google.com/file/d/1rHFyqUxY08fXWq1rRwwZboy1EWBvaEXU/view?usp=sharing)    | [video](https://drive.google.com/file/d/1WxaAlz16gYEuIQU3dgOx4_2hR2BzJq-F/view?usp=sharing)    |
+| 15       | Towards Conversational Recommendation over Multi-Type Dialogs         | [slides](https://drive.google.com/file/d/1rbY2cPF95GJMOHeRqyuSwRWaLTkcKqrW/view?usp=sharing)    | [video](https://drive.google.com/file/d/1jSAPxTDkVan7XGHeZk93KJQp_xiyypSv/view?usp=sharing)    |
+| 15       | Self-Supervised Reinforcement Learning for Recommender Systems         | [slides](https://drive.google.com/file/d/1Idtcd7hHRgkvVP5Ccx_5x1R4hiXWOLz8/view?usp=sharing)    | [video](https://drive.google.com/file/d/1REin9NnKcHXodV4XQmMuADlOXfUZpxab/view?usp=sharing)    |
 | 16       | Controlling Fairness and Bias in Dynamic Learning-to-Rank         | [slides]()    | [video]()    |
 | 16       | Are we really making much progress? A worrying analysis of recent neural recommendation approaches         | [slides]()    | [video]()    |
 | 16       | KRED: Knowledge-aware Document Representation for News Recommendations         | [slides]()    | [video]()    |
