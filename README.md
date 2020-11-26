@@ -65,7 +65,7 @@ La componente práctica de este curso se enseña a través del uso de pyRecLab d
 
 ### Parte II del curso: seminario
 
-A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los [siguientes papers](pap)
+A partir de noviembre el curso toma modalidad seminario, los alumnos hacen presentaciones de los siguientes papers:
 
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
