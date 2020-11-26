@@ -70,7 +70,7 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Semana  | Tema             | link slide(s) | link video | conference |
+| Semana  | Tema             | link slide(s) | link video | conferencia |
 |:--------|:-----------------|:-------------:|:----------:|:-----------|
 | 13       | CTRec: A Long-Short Demands Evolution Model for Continuous-Time Recommendation    | [slides](https://drive.google.com/file/d/1Ys-8asyvEYR1Fr_lbY3D_pJkU88f1jHs/view?usp=sharing)    | [video](https://drive.google.com/file/d/12wMh58M3ogqaWdmfKJpXDsZRyTOba9r1/view?usp=sharing)    |  [SIGIR 2019](https://dl.acm.org/doi/abs/10.1145/3331184.3331199)                  |
 | 13       | Collaborative Similarity Embedding for Recommender Systems         | [slides](https://drive.google.com/file/d/1QoreUxFm_Qu5hHvzywPsj02pslXvefkK/view?usp=sharing)    | [video](https://drive.google.com/file/d/15ewTouX8aLn2ib3LEt_2s226zd2VZyi0/view?usp=sharing)    | [WWW 2019](https://dl.acm.org/doi/abs/10.1145/3308558.3313493) |
