@@ -92,8 +92,8 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 | 16       | Controlling Fairness and Bias in Dynamic Learning-to-Rank         | [slides](https://drive.google.com/file/d/1jk4i1NPB9kqhRJ9RMsoOJ2cgVrqX3GaQ/view?usp=sharing)    | [video](https://drive.google.com/file/d/1m0t6gP18q70J00KUNhZkjalLv5QVvXk7/view?usp=sharing)    | [ ]( ) |
 | 16       | Are we really making much progress? A worrying analysis of recent neural recommendation approaches         | [slides](https://drive.google.com/file/d/1CUYBMfGddQZoNJlllQrokxi-81tjpLeN/view?usp=sharing)    | [video](https://drive.google.com/file/d/1mXz-3tYWFeuyZ_5CSUL90W4VZkgTwHHb/view?usp=sharing)    | [ ]( ) |
 | 16       | KRED: Knowledge-aware Document Representation for News Recommendations         | [slides](https://drive.google.com/file/d/1ZxCrNNPK500qDYOsovfxHw1IhlIihCjJ/view?usp=sharing)    | [video](https://drive.google.com/file/d/1mlqZgWTZ-b-7Ca0r--QuEstc6ylUCzYD/view?usp=sharing)    | [ ]( ) |
-| 16       | Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems         | [slides]()    | [video]()    | [ ]( ) |
-| 16       | BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer         | [slides]()    | [video]()    | [ ]( ) |
+| 16       | Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems         | [slides](https://drive.google.com/file/d/1_-EwRThH0wqdreZItcoF4Hz25aEJhnEl/view?usp=sharing)    | [video](https://drive.google.com/file/d/1ErySt516e6BllC0kqc_3MHPGvpdoswLW/view?usp=sharing)    | [ ]( ) |
+| 16       | BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer         | [slides](https://drive.google.com/file/d/1LVFYEIK1ulzQ0pX3oDk0lcfMguR3QPaw/view?usp=sharing)    | [video](https://drive.google.com/file/d/1ILaajKL1vPPBXm7XkcfOA-xNUAh2n3Ci/view?usp=sharing)    | [ ]( ) |
 
 
 
