@@ -99,6 +99,9 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 
 L@s estudiantes trabajaron en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno:
 
+Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
+![iic3633-2020-2-posters](https://user-images.githubusercontent.com/208111/102280274-9a3fe180-3f0b-11eb-80ba-a5975227984a.png)
+
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
@@ -128,6 +131,7 @@ L@s estudiantes trabajaron en grupo sobre proyectos finales de curso, produciend
 | 22      |     | [poster]()    | [paper]()    |  [repositorio]()             |
 | 23      |     | [poster]()    | [paper]()    |  [repositorio]()             |
 | 24      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+
 
 
 
