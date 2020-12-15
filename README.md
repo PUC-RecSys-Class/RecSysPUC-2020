@@ -95,6 +95,40 @@ A partir de noviembre el curso toma modalidad seminario, los alumnos hacen prese
 | 16       | Improving Relevance Prediction with Transfer Learning in Large-scale Retrieval Systems         | [slides](https://drive.google.com/file/d/1_-EwRThH0wqdreZItcoF4Hz25aEJhnEl/view?usp=sharing)    | [video](https://drive.google.com/file/d/1ErySt516e6BllC0kqc_3MHPGvpdoswLW/view?usp=sharing)    | [Workshop ICML 2019](https://openreview.net/pdf?id=SJxPVcSonN) |
 | 16       | BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer         | [slides](https://drive.google.com/file/d/1LVFYEIK1ulzQ0pX3oDk0lcfMguR3QPaw/view?usp=sharing)    | [video](https://drive.google.com/file/d/1ILaajKL1vPPBXm7XkcfOA-xNUAh2n3Ci/view?usp=sharing)    | [CIKM 2019](https://doi.org/10.1145/3357384.3357895) |
 
+### Proyectos finales
+
+L@s estudiantes trabajaron en grupo sobre proyectos finales de curso, produciendo un poster, paper y repositorio con código para cada uno:
+
+<!-- Tick      : &#10003 -->
+<!-- Bold tick : &#10004 -->
+
+| Grupo | Proyecto             | Poster | Paper | Repositorio |
+|:------|:---------------------|:------:|:-----:|:------------|
+| 1      |  titulo   | [poster]()    | [paper]()    |  [repositorio]()             |
+| 2      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 3      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 4      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 5      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 6      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 7      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 8      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 9      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 10      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 11      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 12      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 13      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 14      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 15      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 16      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 17      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 18      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 19      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 20      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 21      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 22      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 23      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 24      |     | [poster]()    | [paper]()    |  [repositorio]()             |
+
 
 
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
