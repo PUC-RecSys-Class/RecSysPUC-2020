@@ -122,12 +122,12 @@ Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
 | 13      | Ramos Perez on MeliChallenge 2020     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V6_perez_ramos.png)    | [paper]()    |  [repositorio]()             |
 | 14      | RL Algorithms for video game recsys     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V7-tapia_villagran.png)    | [paper]()    |  [repositorio]()             |
 | 15      | Matrix factorizacion and content-based recsysy for playlist continuation     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V8-biskupovic.png)    | [paper]()    |  [repositorio]()             |
-| 16      | Topic Recommendation for Call Centers     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 17      | Recomendacion a grupos: metrica de similaridad y modelos de agrupacion     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 18      | Recommendation of COVID-19 articles using Deep Knowledge-Aware Network     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 19      | RecGAN as anime recommender systems     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 20      | Sistema Recomendador de Lecciones Aprendidas en Cursos Capstone     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 21      | Finding Similar Users with Recommender Systems     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 16      | Topic Recommendation for Call Centers     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A1-andrade_dominguez_pattillo.jpg)    | [paper]()    |  [repositorio]()             |
+| 17      | Recomendacion a grupos: metrica de similaridad y modelos de agrupacion     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A3-olguin_lopez_ibarra.png)    | [paper]()    |  [repositorio]()             |
+| 18      | Recommendation of COVID-19 articles using Deep Knowledge-Aware Network     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A4_donosoguzman.png)    | [paper]()    |  [repositorio]()             |
+| 19      | RecGAN as anime recommender systems     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A5-codoceo_escudero_torres.pptx.png)    | [paper]()    |  [repositorio]()             |
+| 20      | Sistema Recomendador de Lecciones Aprendidas en Cursos Capstone     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A6-Contreras_Molina_Stambuk.png)    | [paper]()    |  [repositorio]()             |
+| 21      | Finding Similar Users with Recommender Systems     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A7-ovalle_valdes.png)    | [paper]()    |  [repositorio]()             |
 
 
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
