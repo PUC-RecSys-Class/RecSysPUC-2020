@@ -107,13 +107,13 @@ Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
 
 | Grupo | Proyecto             | Poster | Paper | Repositorio |
 |:------|:---------------------|:------:|:-----:|:------------|
-| 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos   | [poster]()    | [paper]()    |  [repositorio]()             |
-| 2      | Personality bias in music recommendation:Beyond accuracy Objectives    | [poster]()    | [paper]()    |  [repositorio]()             |
-| 3      | Attack learning: a method using GANs    | [poster]()    | [paper]()    |  [repositorio]()             |
-| 4      | Metrcia Beyond Accuracy: Personal     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 5      | Sequential Recommenders for MeLiDataChallenge 2020    | [poster]()    | [paper]()    |  [repositorio]()             |
-| 6      | Exploración de recomendadores híbridos para música    | [poster]()    | [paper]()    |  [repositorio]()             |
-| 7      | Impacto del Sesgo de Popularidad en el tiempo, considerando multiples stakeholders    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N2-cartegana_huerfano_toscano.png)    | [paper]()    |  [repositorio]()             |
+| 2      | Personality bias in music recommendation:Beyond accuracy Objectives    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N3-Valencia-Gonz%C3%A1lez.png)    | [paper]()    |  [repositorio]()             |
+| 3      | Attack learning: a method using GANs    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N4_castro_casassus.png)    | [paper]()    |  [repositorio]()             |
+| 4      | Metrcia Beyond Accuracy: Personal     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N5-Labarca_Fuentes.png)    | [paper]()    |  [repositorio]()             |
+| 5      | Sequential Recommenders for MeLiDataChallenge 2020    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N6-Aguilera_Everke.png)    | [paper]()    |  [repositorio]()             |
+| 6      | Exploración de recomendadores híbridos para música    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N7-suarez_carreno_alipanah.png)    | [paper]()    |  [repositorio]()             |
+| 7      | Impacto del Sesgo de Popularidad en el tiempo, considerando multiples stakeholders    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N8-Guinez_Ruiz_Sanchez.png)    | [paper]()    |  [repositorio]()             |
 | 8      | Recomendación de items basada en la secuencia de compras: Aplicación DotA    | [poster]()    | [paper]()    |  [repositorio]()             |
 | 9      | Delay and preference based flight recommendation   | [poster]()    | [paper]()    |  [repositorio]()             |
 | 10      | Changing the way we predict game purchases   | [poster]()    | [paper]()    |  [repositorio]()             |
