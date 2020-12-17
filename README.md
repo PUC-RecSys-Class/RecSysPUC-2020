@@ -114,14 +114,14 @@ Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
 | 5      | Sequential Recommenders for MeLiDataChallenge 2020    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N6-Aguilera_Everke.png)    | [paper]()    |  [repositorio]()             |
 | 6      | Exploración de recomendadores híbridos para música    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N7-suarez_carreno_alipanah.png)    | [paper]()    |  [repositorio]()             |
 | 7      | Impacto del Sesgo de Popularidad en el tiempo, considerando multiples stakeholders    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N8-Guinez_Ruiz_Sanchez.png)    | [paper]()    |  [repositorio]()             |
-| 8      | Recomendación de items basada en la secuencia de compras: Aplicación DotA    | [poster]()    | [paper]()    |  [repositorio]()             |
-| 9      | Delay and preference based flight recommendation   | [poster]()    | [paper]()    |  [repositorio]()             |
-| 10      | Changing the way we predict game purchases   | [poster]()    | [paper]()    |  [repositorio]()             |
-| 11      | MelAE: A content-based next track recommendation from Mel Sprectrograms    | [poster]()    | [paper]()    |  [repositorio]()             |
-| 12      | Optimizing Hyper-parameters un RecSys using rolling averages     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 13      | Ramos Perez on MeliChallenge 2020     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 14      | RL Algorithms for video game recsys     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 15      | Matrix factorizacion and content-based recsysy for playlist continuation     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 8      | Recomendación de items basada en la secuencia de compras: Aplicación DotA    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V1-salinas.png)    | [paper]()    |  [repositorio]()             |
+| 9      | Delay and preference based flight recommendation   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V2-waugh_hanuch_ricke.jpg)    | [paper]()    |  [repositorio]()             |
+| 10      | Changing the way we predict game purchases   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V3_duarte_lopez_rodriguez.png)    | [paper]()    |  [repositorio]()             |
+| 11      | MelAE: A content-based next track recommendation from Mel Sprectrograms    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V4-diaz_vinay.png)    | [paper]()    |  [repositorio]()             |
+| 12      | Optimizing Hyper-parameters un RecSys using rolling averages     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V5-alliende.png)    | [paper]()    |  [repositorio]()             |
+| 13      | Ramos Perez on MeliChallenge 2020     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V6_perez_ramos.png)    | [paper]()    |  [repositorio]()             |
+| 14      | RL Algorithms for video game recsys     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V7-tapia_villagran.png)    | [paper]()    |  [repositorio]()             |
+| 15      | Matrix factorizacion and content-based recsysy for playlist continuation     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V8-biskupovic.png)    | [paper]()    |  [repositorio]()             |
 | 16      | Topic Recommendation for Call Centers     | [poster]()    | [paper]()    |  [repositorio]()             |
 | 17      | Recomendacion a grupos: metrica de similaridad y modelos de agrupacion     | [poster]()    | [paper]()    |  [repositorio]()             |
 | 18      | Recommendation of COVID-19 articles using Deep Knowledge-Aware Network     | [poster]()    | [paper]()    |  [repositorio]()             |
