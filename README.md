@@ -107,32 +107,27 @@ Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
 
 | Grupo | Proyecto             | Poster | Paper | Repositorio |
 |:------|:---------------------|:------:|:-----:|:------------|
-| 1      |  titulo   | [poster]()    | [paper]()    |  [repositorio]()             |
-| 2      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 3      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 4      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 5      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 6      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 7      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 8      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 9      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 10      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 11      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 12      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 13      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 14      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 15      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 16      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 17      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 18      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 19      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 20      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 21      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 22      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 23      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-| 24      |     | [poster]()    | [paper]()    |  [repositorio]()             |
-
-
+| 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos   | [poster]()    | [paper]()    |  [repositorio]()             |
+| 2      | Personality bias in music recommendation:Beyond accuracy Objectives    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 3      | Attack learning: a method using GANs    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 4      | Metrcia Beyond Accuracy: Personal     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 5      | Sequential Recommenders for MeLiDataChallenge 2020    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 6      | Exploración de recomendadores híbridos para música    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 7      | Impacto del Sesgo de Popularidad en el tiempo, considerando multiples stakeholders    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 8      | Recomendación de items basada en la secuencia de compras: Aplicación DotA    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 9      | Delay and preference based flight recommendation   | [poster]()    | [paper]()    |  [repositorio]()             |
+| 10      | Changing the way we predict game purchases   | [poster]()    | [paper]()    |  [repositorio]()             |
+| 11      | MelAE: A content-based next track recommendation from Mel Sprectrograms    | [poster]()    | [paper]()    |  [repositorio]()             |
+| 12      | Optimizing Hyper-parameters un RecSys using rolling averages     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 13      | Ramos Perez on MeliChallenge 2020     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 14      | RL Algorithms for video game recsys     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 15      | Matrix factorizacion and content-based recsysy for playlist continuation     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 16      | Topic Recommendation for Call Centers     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 17      | Recomendacion a grupos: metrica de similaridad y modelos de agrupacion     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 18      | Recommendation of COVID-19 articles using Deep Knowledge-Aware Network     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 19      | RecGAN as anime recommender systems     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 20      | Sistema Recomendador de Lecciones Aprendidas en Cursos Capstone     | [poster]()    | [paper]()    |  [repositorio]()             |
+| 21      | Finding Similar Users with Recommender Systems     | [poster]()    | [paper]()    |  [repositorio]()             |
 
 
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
