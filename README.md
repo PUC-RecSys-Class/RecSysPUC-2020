@@ -105,29 +105,29 @@ Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
 <!-- Tick      : &#10003 -->
 <!-- Bold tick : &#10004 -->
 
-| Grupo | Proyecto             | Poster | Paper | Repositorio |
-|:------|:---------------------|:------:|:-----:|:------------|
-| 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N2-cartegana_huerfano_toscano.png)    | [paper]()    |  [repositorio]()             |
-| 2      | Personality bias in music recommendation:Beyond accuracy Objectives    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N3-Valencia-Gonz%C3%A1lez.png)    | [paper]()    |  [repositorio]()             |
-| 3      | Attack learning: a method using GANs    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N4_castro_casassus.png)    | [paper]()    |  [repositorio]()             |
-| 4      | Metrcia Beyond Accuracy: Personal     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N5-Labarca_Fuentes.png)    | [paper]()    |  [repositorio]()             |
-| 5      | Sequential Recommenders for MeLiDataChallenge 2020    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N6-Aguilera_Everke.png)    | [paper]()    |  [repositorio]()             |
-| 6      | Exploración de recomendadores híbridos para música    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N7-suarez_carreno_alipanah.png)    | [paper]()    |  [repositorio]()             |
-| 7      | Impacto del Sesgo de Popularidad en el tiempo, considerando multiples stakeholders    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N8-Guinez_Ruiz_Sanchez.png)    | [paper]()    |  [repositorio]()             |
-| 8      | Recomendación de items basada en la secuencia de compras: Aplicación DotA    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V1-salinas.png)    | [paper]()    |  [repositorio]()             |
-| 9      | Delay and preference based flight recommendation   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V2-waugh_hanuch_ricke.jpg)    | [paper]()    |  [repositorio]()             |
-| 10      | Changing the way we predict game purchases   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V3_duarte_lopez_rodriguez.png)    | [paper]()    |  [repositorio]()             |
-| 11      | MelAE: A content-based next track recommendation from Mel Sprectrograms    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V4-diaz_vinay.png)    | [paper]()    |  [repositorio]()             |
-| 12      | Optimizing Hyper-parameters un RecSys using rolling averages     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V5-alliende.png)    | [paper]()    |  [repositorio]()             |
-| 13      | Ramos Perez on MeliChallenge 2020     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V6_perez_ramos.png)    | [paper]()    |  [repositorio]()             |
-| 14      | RL Algorithms for video game recsys     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V7-tapia_villagran.png)    | [paper]()    |  [repositorio]()             |
-| 15      | Matrix factorizacion and content-based recsysy for playlist continuation     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V8-biskupovic.png)    | [paper]()    |  [repositorio]()             |
-| 16      | Topic Recommendation for Call Centers     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A1-andrade_dominguez_pattillo.jpg)    | [paper]()    |  [repositorio]()             |
-| 17      | Recomendacion a grupos: metrica de similaridad y modelos de agrupacion     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A3-olguin_lopez_ibarra.png)    | [paper]()    |  [repositorio]()             |
-| 18      | Recommendation of COVID-19 articles using Deep Knowledge-Aware Network     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A4_donosoguzman.png)    | [paper]()    |  [repositorio]()             |
-| 19      | RecGAN as anime recommender systems     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A5-codoceo_escudero_torres.pptx.png)    | [paper]()    |  [repositorio]()             |
-| 20      | Sistema Recomendador de Lecciones Aprendidas en Cursos Capstone     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A6-Contreras_Molina_Stambuk.png)    | [paper]()    |  [repositorio]()             |
-| 21      | Finding Similar Users with Recommender Systems     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A7-ovalle_valdes.png)    | [paper]()    |  [repositorio]()             |
+| Grupo | Proyecto             | Poster | Paper | 
+|:------|:---------------------|:------:|:-----:|
+| 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N2-cartegana_huerfano_toscano.png)    | [paper]()    | 
+| 2      | Personality bias in music recommendation:Beyond accuracy Objectives    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N3-Valencia-Gonz%C3%A1lez.png)    | [paper]()    |
+| 3      | Attack learning: a method using GANs    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N4_castro_casassus.png)    | [paper]()    |
+| 4      | Metrcia Beyond Accuracy: Personal     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N5-Labarca_Fuentes.png)    | [paper]()    |
+| 5      | Sequential Recommenders for MeLiDataChallenge 2020    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N6-Aguilera_Everke.png)    | [paper]()    |
+| 6      | Exploración de recomendadores híbridos para música    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N7-suarez_carreno_alipanah.png)    | [paper]()    |
+| 7      | Impacto del Sesgo de Popularidad en el tiempo, considerando multiples stakeholders    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N8-Guinez_Ruiz_Sanchez.png)    | [paper]()    |
+| 8      | Recomendación de items basada en la secuencia de compras: Aplicación DotA    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V1-salinas.png)    | [paper]()    |
+| 9      | Delay and preference based flight recommendation   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V2-waugh_hanuch_ricke.jpg)    | [paper]()    |
+| 10      | Changing the way we predict game purchases   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V3_duarte_lopez_rodriguez.png)    | [paper]()    |
+| 11      | MelAE: A content-based next track recommendation from Mel Sprectrograms    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V4-diaz_vinay.png)    | [paper]()    |
+| 12      | Optimizing Hyper-parameters un RecSys using rolling averages     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V5-alliende.png)    | [paper]()    |
+| 13      | Ramos Perez on MeliChallenge 2020     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V6_perez_ramos.png)    | [paper]()    |
+| 14      | RL Algorithms for video game recsys     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V7-tapia_villagran.png)    | [paper]()    |
+| 15      | Matrix factorizacion and content-based recsysy for playlist continuation     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/V8-biskupovic.png)    | [paper]()    |
+| 16      | Topic Recommendation for Call Centers     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A1-andrade_dominguez_pattillo.jpg)    | [paper]()    |
+| 17      | Recomendacion a grupos: metrica de similaridad y modelos de agrupacion     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A3-olguin_lopez_ibarra.png)    | [paper]()    |
+| 18      | Recommendation of COVID-19 articles using Deep Knowledge-Aware Network     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A4_donosoguzman.png)    | [paper]()    |
+| 19      | RecGAN as anime recommender systems     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A5-codoceo_escudero_torres.pptx.png)    | [paper]()    |
+| 20      | Sistema Recomendador de Lecciones Aprendidas en Cursos Capstone     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A6-Contreras_Molina_Stambuk.png)    | [paper]()    |
+| 21      | Finding Similar Users with Recommender Systems     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/A7-ovalle_valdes.png)    | [paper]()    |
 
 
 **MES 1** En las primeras semanas nos enfocaremos en métodos básicos para hacer recomendación usando y prediciendo ratings (filtrado colaborativo User-based & item-based, slope-one). Luego veremos métodos de factorización matricial para ratings y para feedback implícito. En la 3ra semana veremos formas adicionales de evaluar más alla de la métricas de error de predicción de rating (MAE, MSE, RMSE) e incorporaremos métricas para evaluar listas de ítems (precision, recall, MAP, P@n, nDCG). Veremos métodos basados en contenido y sistemas híbridos.
