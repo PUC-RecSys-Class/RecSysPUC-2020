@@ -107,8 +107,7 @@ Imagen de la sesión de posters en gather.town del 15 de diciembre de 2020.
 
 | Grupo | Proyecto             | Poster | Paper | 
 |:------|:---------------------|:------:|:-----:|
-| 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N2-cartegana_huerfano_toscano.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Cartagena%20et%20al.pdf
-)    | 
+| 1      | Recomendación a conjuntos de usuarios en grupos heterogeneos   | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N2-cartegana_huerfano_toscano.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Cartagena%20et%20al.pdf)    | 
 | 2      | Personality bias in music recommendation:Beyond accuracy Objectives    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N3-Valencia-Gonz%C3%A1lez.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Valencia%20et%20al.pdf)    |
 | 3      | Attack learning: a method using GANs    | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N4_castro_casassus.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Castro%20et%20al.pdf)    |
 | 4      | Metrcia Beyond Accuracy: Personal     | [poster](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/posters/N5-Labarca_Fuentes.png)    | [paper](https://github.com/PUC-RecSys-Class/RecSysPUC-2020/blob/master/proyecto/proy_finales_2020/Fuentes%20et%20al.pdf)    |
